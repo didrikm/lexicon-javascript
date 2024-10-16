@@ -1,0 +1,15 @@
+ul {
+  column-count: 4;
+}
+
+input {
+  margin-bottom: 5px;
+}
+
+label {
+  display: inline-block;
+  min-width: 50px;
+}
+button {
+  margin: 5px 0 10px 0;
+}

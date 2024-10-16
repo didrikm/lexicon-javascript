@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+  padding: 2rem;
+}
+
+.input-group {
+  width: 80%;
+  max-width: 50rem;
+}
+
+.btn-group {
+  width: 80%;
+  max-width: 50rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+}
+.btn-group > :nth-child(1) {
+  text-align: left;
+}
+.btn-group > :nth-child(2) {
+  max-width: 40px;
+}
